@@ -4,8 +4,10 @@ DiceGameJavaProject
 Règle du jeu rudimentaire, juste pour lancer le projet. Application Java graphique. Tout le monde peut participer.  
 
 ---
+
 *TODO*
 1. UML  
+
 ---
 
 6 dés.  
