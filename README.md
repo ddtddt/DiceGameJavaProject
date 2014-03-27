@@ -1,7 +1,7 @@
 DiceGameJavaProject
 ===================
 
-Règle du jeu rudimentaire, juste pour lancer le projet. Application Java graphique. Tout le monde peut participer.  
+Règle du jeu rudimentaire, juste pour lancer le projet commun. Application Java graphique. Tout le monde peut participer.  
 
 ---
 
