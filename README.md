@@ -6,7 +6,8 @@ Règle du jeu rudimentaire, juste pour lancer le projet commun. Application Java
 ---
 
 *TODO*  
-1. UML  
+1. Améliorer les règles du jeu (mieux les définir)  
+2. UML  
 
 ---
 
