@@ -1,6 +1,13 @@
 DiceGameJavaProject
 ===================
 
+Règle du jeu rudimentaire, juste pour lancer le projet. Application Java graphique. Tout le monde peut participer.  
+
+---
+*TODO*
+1. UML  
+---
+
 6 dés.  
 Le premier arrivé à 10000 points gagne.  
 Il faut 'sortir' au moins 1 dé à chaque passage.  
@@ -14,7 +21,7 @@ Un 'round' se termine quand on inscrit ses points ou si on lance sans faire de p
 * 3x4 = 400 points
 ...
 * 3x1 = 1000 points
-* +1000 points par de en plus
+* +1000 points par dé en plus
   
 * 3 pairs = 1500  points
 * une suite = 1500 points
