@@ -5,7 +5,7 @@ Règle du jeu rudimentaire, juste pour lancer le projet. Application Java graphi
 
 ---
 
-*TODO*
+*TODO*  
 1. UML  
 
 ---
